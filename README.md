@@ -1,3 +1,3 @@
 # kotlin
 
-<iframe src="https://pl.kotl.in/iUpwOZWDw"></iframe>
+[basic fuction](<(https://pl.kotl.in/iUpwOZWDw)>)
